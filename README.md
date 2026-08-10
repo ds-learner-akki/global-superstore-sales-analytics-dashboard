@@ -69,14 +69,15 @@ The dataset was cleaned and transformed using **Power Query**:
 
 ## Dashboard Preview
 
-### Main Dashboard
+# Global Superstore Sales Analytics Dashboard
+
+Interactive Power BI dashboard for sales, profit, regional, and customer segment analysis.
 
 ## Dashboard Preview
 
-### Main Dashboard
-GlobalSuperStore
+![Dashboard](images/globalsuperstoredashboard.png)
 
-![Global Superstore Dashboard](./images/globalsuperstoredashboard.png)
+---
 
 ---
 
