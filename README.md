@@ -1,5 +1,3 @@
-# global-superstore-sales-analytics-dashboard
-Interactive Power BI dashboard for sales, profit, regional, and customer segment analysis using the Global Superstore dataset.
 # Global Superstore Sales Analytics Dashboard
 
 Interactive Power BI dashboard built to analyze **sales, profit, customer segments, regional performance, and monthly sales trends** using the Global Superstore dataset.
