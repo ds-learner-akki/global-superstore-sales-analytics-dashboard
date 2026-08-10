@@ -78,6 +78,12 @@ GlobalSuperStore
 
 ![Global Superstore Dashboard](images/globalsuperstoredashboard.png)
 
+## Dashboard Preview
+
+<p align="center">
+  <img src="images/globalsuperstoredashboard.png" width="900"/>
+</p>
+
 ---
 
 ## Project Structure
