@@ -74,8 +74,9 @@ The dataset was cleaned and transformed using **Power Query**:
 ## Dashboard Preview
 
 ### Main Dashboard
+GlobalSuperStore
 
-![Global Superstore Dashboard](images/dashboardglobalsuperstore.png)
+![GlobalSuperstore](images/dashboardglobalsuperstore.png)
 
 ---
 
